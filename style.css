@@ -1,0 +1,29 @@
+article {
+    border: 2px solid #ccc;
+    width: 300px;
+}
+
+
+a {
+    justify-content: space-evenly
+
+}
+h3 {
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+ 
+}
+a {
+    margin-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: rgb(64, 104, 172);
+}
+ul {
+    margin-left: -25px;
+}
